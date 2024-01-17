@@ -1,0 +1,1613 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    color: #ffffff;
+}
+.hm-btn{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.Homesrc{
+    margin: auto;
+    display: flex;
+    width: 15rem;
+    height: auto;
+    margin-top: 2rem;
+}
+.Homesrc2 {
+    width: 36rem;
+    height: auto;
+    margin: auto;
+    display: flex;
+    margin-right: 23.5rem;
+    margin-top: -1.2rem;
+}
+.Title{
+    margin-top: -10rem;
+    text-align: center;
+    font-size: 5rem;
+}
+.Income h1{
+    margin-top: 3.5rem;
+    text-align: center;
+    font-family: Space Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+}
+.Income p{
+    margin-top: 0.4rem;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Space Georgia, 'Times New Roman', Times, serif;
+}
+#HomeVContainer{
+    margin: auto;
+    width: 600px; 
+    height: 400px; 
+    margin-top: 1rem;
+    display: flex;
+}
+.HomeBContainer{
+    background-color: initial;
+    margin: auto;
+    width: 39rem;
+    height: 6.3rem;
+    border: 2px solid gray;
+    border-radius: 1rem;
+    font-size: 1.7rem;
+    display: flex;
+    margin-top: 1rem;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-image: linear-gradient(to left, blue,rgb(82, 187, 82));
+    
+}
+.Masterclass{
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 2.5rem;
+    text-decoration: underline;
+}
+.TimingContainer{
+    margin: auto;
+    width: 60rem;
+    height: 7rem;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+    background-image: linear-gradient(to left, blue,rgb(82, 187, 82));
+    border: 2px solid #ffffff;
+    border-radius: 2rem;
+    gap: 4.5rem;
+
+}
+.frscontainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.MainContainer2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.RiskOfB{
+    display: flex;
+
+
+}
+.Risk{
+    margin-top: 3rem;
+}
+.BusnessExamples{
+    display: flex;
+    gap: 1.5rem;
+}
+.Imgsrc1{
+    width: 15rem;
+    height: 15rem;
+}
+.Opportunity{
+    margin-top: 1rem;
+    font-size: 2.2rem;
+    font-weight: normal;
+}
+.ActionNow{
+    background-color: rgb(17, 180, 245);
+    margin-top: 1rem;
+    font-size: 1.3rem;
+    padding: 1rem;
+    color: black;
+    font-weight: bolder;
+}
+.MaiContainer3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: -3rem;
+}
+.Mastersrc1{
+    width: 3rem;
+    height: 3rem;
+}
+.MasterClass1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30rem;
+    gap: 2rem;
+    font-size: 1rem;
+    border: 2px solid green;
+    padding: 1rem;
+    border-radius: 2rem;
+}
+.MsMainContainer1{
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+    font-weight: bolder;
+}
+.MasterClassText1{
+    width: 20rem;
+}
+.DimandImg{
+    margin-top: -1rem;
+}
+.MaiContainer4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.Twittersrc{
+    width: 73rem;
+    height: 30rem;
+    margin: auto;
+    display: flex;
+}
+.clocksrc{
+    margin: auto;
+    display: flex;
+    width: 30rem;
+    height: 5rem;
+    margin-top: 2rem;
+}
+.MainContainer5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 2rem;
+}
+.grrentxt{
+    color: green;
+    font-size: 2.5rem;
+}
+.firstpara{
+    font-size: 2rem;
+    padding: 0rem 4rem;
+    text-align: center;
+}
+.secondpara{
+    font-size: 2rem;
+    padding:0rem 4rem;
+    text-align: center;
+    margin-top: 1rem;
+
+}
+.Aisrc{
+    margin: auto;
+    display: flex;
+    width: 70rem;
+    height: 40rem;
+}
+.spanbox{
+    display: flex;
+    text-align: center;
+    margin: auto;
+
+}
+.bonuses{
+    margin-top: 3rem;
+}
+.MainContainer6{
+    display: flex;
+    margin-bottom: -1rem;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.green{
+    color: rgb(38, 241, 164);
+    padding-bottom: 3rem;
+}
+.bonus1{
+    height: auto;
+    width: 28rem;
+    border-radius: 1rem;
+    border: 0.2rem solid rgb(37, 226, 154);
+    padding: 1rem ;
+    display: flex;
+    box-shadow: 0px 0px 10px 0px rgb(37, 226, 154);
+    gap: 2rem;
+}
+.bonus-boxes{
+    display: flex;
+    gap: 2rem;
+    margin: 1rem 0rem;
+}
+.bonus-info{
+    display: flex;
+    flex-direction: column;
+}
+.b-info2{
+    color: rgb(17, 187, 130);
+    font-size: 1.2rem;
+}
+.ai{
+    height: 4rem;
+    width: 4rem;
+}
+.free-info{
+    width: 65rem;
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 3rem 0rem;
+    margin-bottom: -4rem;
+}
+
+
+
+.testimonials{
+    height: auto;
+    padding: 2rem;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.test-head{
+    font-size: 2rem;
+}
+.test-info{
+    text-align: center;
+    font-size: 2rem;
+    padding-top: 1rem;
+}
+.test1{
+    width: 75rem;
+    padding: 2rem 0rem;
+}
+.testimonials-boxes{
+    display: flex;
+    gap: 2rem;
+    margin-top: 3rem;
+}
+.testimonials-box{
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+}
+.box-content{
+    height: auto;
+    padding: 1rem 0.5rem;
+    width: 25rem;
+    background-image: linear-gradient(rgba(82, 59, 101, 0.677),rgba(20, 4, 77, 0.364));
+    border-radius: 2rem;
+    border: 3px solid rgb(33, 2, 40);
+    display: flex;
+    gap: 2rem;
+    flex-direction: column;
+}
+.box-text{
+    font-size: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.test-text{
+    color: whitesmoke;
+}
+.tm-img{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 1rem;
+}
+.tm-img1{
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+}
+.test-name{
+    font-size: 1.1rem;
+}
+.Homebtn{
+    padding: 1rem 2rem;
+    border-radius: 1rem;
+    background-color: black;
+    color: #ffffff;
+    display: flex;
+    margin: 3rem 0rem;
+    border: 2px solid gray;
+    border-radius: 3rem;
+    font-size: 1.3rem;
+    cursor: pointer;
+}
+.Homebtn:hover{
+    background-image: linear-gradient(to left, blue,rgb(82, 187, 82));
+
+}
+.for-head{
+    padding-left: 3rem;
+    font-size: 2.5rem;
+}
+.for.container{
+
+}
+.for-img{
+    display: flex;
+    gap: 3rem;
+}
+#user{
+    font-size: 27px !important;
+    background-color: rgb(188, 37, 214);
+    padding: 15px;
+    box-shadow: 0px 0px 15px 0px white;
+    border-radius: 50%;
+    color: whitesmoke;
+}
+.for-images{
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    margin-top: 2rem;
+}
+.enter{
+    width: 20rem;
+    height: 25rem;
+}
+.market{
+    width: 30rem;
+    height: 35rem;
+}
+.for-para{
+    font-size: 1.8rem;
+    width: 70rem;
+    text-align: center;
+    padding: 3rem 0rem;
+}
+.future-text{
+    color: rgb(16, 225, 152);
+    font-size: 1.3rem;
+}
+#linkedin{
+    font-size: 30px !important;
+    background-color: rgb(34, 203, 241);
+    padding: 5px;
+    border-radius: 0.1rem;
+    color: whitesmoke;
+}
+.rock-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.rock-info{
+    width: 70rem;
+    padding: 3rem 0rem;
+    font-size: 1.2rem;
+    text-align: center;
+}
+.rock-img{
+    height: 40rem;
+    width: 70rem;
+}
+.btw-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.btw-boxes{
+    display: flex;
+    gap: 3rem;
+    margin: 2rem 0rem;
+}
+.percent-box{
+    height: auto;
+    width: auto;
+    /* background-color: pink; */
+    flex-direction: column;
+    display: flex;
+    align-items: start;
+    justify-content: start;
+}
+.percent{
+    font-size: 6rem;
+    color: rgb(17, 229, 183);
+}
+.percent-info{
+    width: 14rem;
+    font-size: 1.3rem;
+}
+.ques-mark{
+   height: 2rem;
+   width: 2rem;
+   border-radius: 50%;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.faq-container {
+   width: 60rem;
+    margin: 1rem auto;
+    /* padding: 20px; */
+    background-color:black;
+    border: 0.1rem solid rgb(74, 81, 80);
+    border-radius: 1rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.rock-head{
+    margin-bottom: 2rem;
+}
+
+.faq-item {
+    /* margin-bottom: 20px; */
+    cursor: pointer;
+}
+
+.question{
+    color: #9d9595;
+    padding: 2rem 1rem;
+    border-radius: 1rem 1rem 0rem 0rem;
+
+}
+.question:hover{
+    background-color: rgb(67 107 98);
+}
+
+.answer {
+    color:#c6b6b6;
+    font-size: 1.3rem;
+    display: none;
+    padding: 1rem;
+    background-color: #0e2f2f;
+
+
+}
+
+.active .answer {
+    display: block;
+}
+.faq-hr{
+    width: 100%;
+}
+
+.hr-faq {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+.who{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.remember-container{
+    display: flex;
+    align-items: center;
+    gap: 4rem;
+    justify-content: center;
+}
+.mentor{
+    height: 25rem;
+    width: 22rem;
+}
+.rm-bold{
+    width: 40rem;
+    font-size: 2.5rem;
+    color: rgb(25, 220, 178);
+}
+.rm-span{
+    width: 40rem;
+    font-size: 1.6rem;
+}
+.remember-info{
+    flex-direction: column;
+    display: flex;
+    gap: 1rem;
+}
+.act-info{
+    width: 65rem;
+    font-size: 1.8rem;
+    padding: 1rem;
+}
+.ai-race{
+    width: 63rem;
+    font-size: 1.7rem;
+    color: rgb(45, 240, 191);
+}
+.footerSide{
+    width: 100%;
+    height: 5rem;
+    background-color: rgb(28, 28, 158);
+    border: 2px solid #ffffff;
+    padding: 0 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+        bottom: 0;  
+        left: 0;
+        right: 0;
+        z-index: 1000; 
+}
+ 
+
+#timer {
+    font-size: 1.7rem;
+    font-weight: bolder;
+
+}
+
+.info {
+    display: flex;
+    font-size: 1.2rem;
+    align-items: baseline; /* Align items to the baseline to avoid unnecessary bottom margin */
+}
+
+.greencl {
+    font-weight: bolder;
+    font-size: 1.8rem;
+    color: rgb(42, 177, 42);
+}
+
+.rup {
+    margin-top: 0.3rem;
+}
+.Exclemetrysrc{
+    height: 5rem;
+    margin-top: 1.7rem;
+    width: 5rem;
+}
+.DimandImg{
+    height: 8rem;
+    width: 8rem;
+}
+
+.rupee {
+    color: grey;
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+}
+.btn2{
+    background-color: #03e2a8;
+    color: #000000;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-right: 20px;
+}
+@media (min-width :769px) and (max-width:1023px) {
+    .Title {
+        font-size: 3rem;
+        margin-top: 0.5rem;
+    }
+.Homesrc2 {
+    display: none !important;
+    width: 22rem;
+    height: auto;
+    margin: auto;
+    display: flex;
+    margin-right: 9.5rem;
+    margin-top: 0.8rem;
+}
+.TimingContainer {
+    width: 47rem;
+    margin-top: 0rem;
+}
+.Imgsrc1 {
+    width: 11rem;
+    height: 11rem;
+}
+.BusnessExamples {
+    display: flex;
+    gap: 0.5rem;
+}
+.RiskOfB {
+    display: flex;
+    margin-top: -2rem;
+}
+.MasterClass1{
+    width: 22rem;
+}
+.Twittersrc {
+    width: 48rem;
+    height: 22rem;
+}
+.Aisrc {
+    width: 43rem;
+    height: 25rem;
+}
+.bonus1 {
+    height: auto;
+    width: 22rem;
+}
+.DimandImg {
+    margin-top: -2rem;
+}
+.Masterclass {
+    font-size: 2rem;
+}
+.free-info {
+    width: 48rem;
+}
+.MainContainer6 {
+    margin-bottom: -3rem;
+}
+    .testimonials-boxes{
+        flex-direction: column;
+    }
+    .for-img{
+        flex-direction: column;
+    align-items: center;
+    }
+    .enter {
+        width: 30rem;
+        height: 36rem;
+    }
+    .for-para{
+        width: 46rem;
+    }
+    .future-text{
+        font-size: 25px;
+    }
+    .for-head {
+        padding-left: 1rem;
+        font-size: 1.5rem;
+    }
+    .rock-info {
+        width: 47rem;
+    }
+    .rock-img {
+        height: 30rem;
+        width: 46rem;
+    }
+    .test-info{
+        font-size: 1.7rem;
+        padding-top: 1rem;
+    }
+    .percent{
+        font-size: 3rem;
+    }
+    .percent-info {
+        width: 11rem;
+        font-size: 17px;
+    }
+    .btw-boxes {
+        display: flex;
+        gap: 1rem;
+    }
+    .faq-container{
+        width:100%;
+    }
+    .remember-container{
+        flex-direction: column;
+    }
+    .act-info {
+        width: 48rem;
+    }
+    .ai-race {
+        width: 46rem;
+        font-size: 1.4rem;
+    }
+}
+@media (min-width :499px) and (max-width:769px) {
+    
+    .Title {
+        font-size: 2rem;
+        margin-top: 0.5rem;
+    }
+.Homesrc2 {
+    display: none !important;
+    width: 14.5rem;
+    height: auto;
+    margin: auto;
+    display: flex;
+    margin-right: 6rem;
+    margin-top: 0.8rem;
+}
+#HomeVContainer{
+    width: 400px !important;
+    margin-top: -4rem;
+    margin-bottom: -4rem;
+}
+.HomeBContainer {
+    width: 30rem;
+    height: 7.3rem;
+}
+.TimingContainer {
+    width: 23rem;
+    height: auto;
+    display: flex;
+    padding: 1rem 0rem;
+    gap: 2.5rem;
+    flex-direction: column;
+    margin-top: 0rem;
+}
+.Exclemetrysrc{
+    height: 6rem;
+    margin-top: 1.3rem;
+    width: 6rem;
+}
+.Risk {
+    margin-top: 3rem;
+    font-size: 1.5rem;
+}
+.Imgsrc1 {
+    width: 19rem;
+    height: 18rem;
+}
+.Opportunity {
+    font-size: 1.5rem;
+}
+.ActionNow{font-size: 1.3rem;
+    text-align: center;
+}
+.BusnessExamples {
+    display: flex;
+    gap: 0.5rem;
+    flex-direction: column;
+}
+.RiskOfB {
+    display: flex;
+    margin-top: -2rem;
+}
+.MasterClass1{
+    width: 25rem;
+}
+.Twittersrc {
+    width: 29rem;
+    height: 15rem;
+}
+.grrentxt {
+    font-size: 1.8rem;
+}
+.firstpara {
+    width: 32rem;
+    font-size: 1.5rem;
+    padding: 0rem 1rem;
+}
+.secondpara{
+    width: 32rem;
+    font-size: 1.5rem;
+    padding: 0rem 1rem;
+}
+.Aisrc {
+    width: 26rem;
+    height: 16rem;
+}
+.src{
+    height: 3rem;
+    margin-top: 2.5rem;
+    width: 3rem;
+}
+.bonus-boxes {
+    display: flex;
+    gap: 2rem;
+    flex-direction: column;
+}
+.bonus1 {
+    height: auto;
+    width: 22rem;
+    margin-top: -1rem;
+}
+.DimandImg {
+    margin-top: 2rem;
+}
+.MsMainContainer1 {
+    display: flex;
+    flex-direction: column;
+}
+.Masterclass {
+    font-size: 1.5rem;
+}
+.free-info {
+    width: 32rem;
+    font-size: 1.3rem;
+    padding: 1rem 0rem;
+}
+.MainContainer6 {
+    margin-bottom: -1rem;
+}
+.ai {
+    height: 3rem;
+    width: 3rem;
+}
+
+    .testimonials-boxes{
+        flex-direction: column;
+    }
+    .for-img{
+        flex-direction: column;
+    align-items: center;
+    }
+    .enter {
+        width: 30rem;
+        height: 36rem;
+    }
+    .for-para{
+        width: 26rem;
+        font-size: 1.5rem;
+    }
+    .future-text{
+        text-align: center;
+        font-size: 23px;
+    }
+    .for-head {
+        padding-left: 1rem;
+        font-size: 20px;
+    }
+    .rock-info {
+        width: 29rem;
+    }
+    .rock-img {
+        height: 21rem;
+        width: 30rem;
+    }
+    .market{
+        width: 20rem;
+    height: 22rem;
+    }
+    .for-img{
+        display: flex;
+        gap: 2rem;
+        flex-direction: column;
+    }
+    .enter{
+        width: 20rem;
+    height: 22rem;
+    }
+    .test-info{
+        font-size: 1.7rem;
+        padding-top: 1rem;
+    }
+    .percent{
+        font-size: 4rem;
+    }
+    .Homebtn{
+        margin: 1rem 0rem;
+    }
+    .ques-mark{
+        display: none;
+    }
+    .faq-container{
+        margin: 1rem auto;
+    }
+    .rm-span{
+        width: 100%;
+    }
+    .remember-container{
+        display: flex;
+        flex-direction: column;
+        grid-area: 2rem;
+    }
+    .remember-info{
+        width: 100% !important;
+    }
+    .rm-bold {
+        width: 100% !important;
+        font-size: 1.6rem;
+    }
+    .btw-boxes {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        text-align: center;
+    }
+    .percent-box{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .faq-container{
+        width:100%;
+    }
+    .remember-container{
+        flex-direction: column;
+    }
+    .act-info {
+        width: 100% !important;
+        font-size: 1.6rem;
+        padding: 1rem 0rem;
+    }
+    .ai-race {
+        width: 100% !important;
+        font-size: 1.3rem;
+    }
+    .greencl {
+        font-weight: bolder;
+        font-size: 1.3rem;
+    }
+    #timer {
+        font-size: 1.2rem;
+        font-weight: bolder;
+    }
+    .btn2 {
+        background-color: #03e2a8;
+        color: #000000;
+        text-decoration: none;
+        padding: 7px 12px;
+        font-size: 14px;
+        border-radius: 5px;
+        font-weight: bold;
+        margin-right: 2px;
+    }
+}
+@media (min-width :349px) and (max-width:499px) {
+    .Homesrc{
+        width: 13rem;
+    }
+    .Title {
+        font-size: 1.5rem;
+        margin-top: 0.5rem;
+    }
+    .Income h1 {
+        margin-top: 1rem;
+        font-size: 1.2rem;
+    }
+.Homesrc2 {
+    display: none !important;
+    width: 11rem;
+    height: auto;
+    margin: auto;
+    display: flex;
+    margin-right: 1rem;
+    margin-top: 0.8rem;
+}
+#HomeVContainer{
+    width: 300px !important;
+    margin-top: -5rem;
+    margin-bottom: -5rem;
+}
+.Income p {
+    margin-top: 0.4rem;
+    font-size: 1.1rem;
+}
+.HomeBContainer {
+    width: 20rem;
+    height: 7.3rem;
+    font-size: 1.3rem;
+}
+.TimingContainer {
+    width: 18rem;
+    height: auto;
+    display: flex;
+    padding: 1rem 0rem;
+    gap: 2.5rem;
+    flex-direction: column;
+    margin-top: 0rem;
+}
+.Exclemetrysrc{
+    height: 4rem;
+    margin-top: 1.5rem;
+    padding: 0rem 0.5rem;
+    width: 5rem;
+    display: none;
+}
+.Risk {
+    margin-top: 3rem;
+    margin-left: 0rem;
+    padding-bottom: 1rem;
+    font-size: 1.1rem;
+}
+.Imgsrc1 {
+    width: 19rem;
+    height: 18rem;
+}
+.Opportunity {
+    font-size: 1.1rem;
+}
+.ActionNow{font-size: 1.1rem;
+    text-align: center;
+}
+.BusnessExamples {
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+}
+.RiskOfB {
+    display: flex;
+    margin-top: -2rem;
+}
+.MasterClass1{
+    width: 20rem;
+}
+.Twittersrc {
+    width: 20rem;
+    height: 11rem;
+}
+.grrentxt {
+    font-size: 1.3rem;
+}
+.clocksrc{
+    width: 21rem;
+    height: 4rem;
+}
+.firstpara {
+    width: 22rem;
+    font-size: 1.3rem;
+    padding: 0rem 1rem;
+}
+.secondpara{
+    width: 22rem;
+    font-size: 1.3rem;
+    padding: 0rem 1rem;
+}
+.Aisrc {
+    width: 20rem;
+    height: 12rem;
+}
+.spanbox {
+    margin-top: -2rem;
+}
+.green{
+    font-size: 1.3rem;
+    padding-bottom: 1rem;
+}
+.src{
+    height: 3rem;
+    margin-top: 2.5rem;
+    width: 3rem;
+}
+.bonus-boxes {
+    display: flex;
+    gap: 2rem;
+    flex-direction: column;
+}
+.bonus1 {
+    height: auto;
+    width: 21rem;
+    margin-top: -1rem;
+}
+.DimandImg {
+    margin-top: 2.5rem;
+}
+.MsMainContainer1 {
+    display: flex;
+    flex-direction: column;
+}
+.Masterclass {
+    font-size: 1.2rem;
+}
+.free-info {
+    width: 20rem;
+    font-size: 1.3rem;
+    padding: 0rem 0rem;
+    margin-bottom: -1rem;
+}
+.MainContainer6 {
+    margin-bottom: -1rem;
+}
+.ai {
+    height: 3rem;
+}
+    .testimonials{
+        padding: 1rem 0.5rem;
+    }
+
+    .testimonials-boxes{
+        flex-direction: column;
+    }
+    .for-img{
+        flex-direction: column;
+    align-items: center;
+    }
+    .enter {
+        width: 30rem;
+        height: 36rem;
+    }
+    .for-para{
+        width: 20rem;
+        font-size: 1.4rem;
+        padding: 2rem 0rem;
+    }
+    .future-text{
+        text-align: center;
+        font-size: 23px;
+    }
+    .percent-info{
+        width: 14rem;
+    font-size: 16px;
+    }
+    .question {
+        color: white;
+        font-size: 17px;
+        padding: 1rem 1rem;
+    }
+    .for-head {
+        padding-left: 1rem;
+        font-size: 14px;
+    }
+    #linkedin{
+        font-size: 17px !important;
+    background-color: rgb(34, 203, 241);
+    padding: 3px;
+    }
+    .rock-info {
+        width: 22rem;
+        padding: 2rem 0rem;
+        margin-top: -3rem;
+    }
+    .rock-img {
+        height: 13rem;
+        width: 20rem;
+    }
+    .market {
+        width: 18rem;
+        height: 20rem;
+    }
+    .for-img{
+        display: flex;
+        gap: 2rem;
+        flex-direction: column;
+    }
+    .box-content{
+        width: 19rem;
+    }
+    .enter{
+        width: 18rem;
+        height: 20rem;
+    }
+    .test-info{
+        font-size: 1.3rem;
+        padding-top: 1rem;
+    }
+    .mentor{
+        height: 20rem;
+    width: 18rem;
+    margin-bottom: -3rem;
+    }
+    .percent {
+        font-size: 2rem;
+    }
+    .Homebtn{
+        margin: 2rem 0rem;
+        padding: 1rem 1rem;
+    }
+    #user{
+        font-size: 12px !important;
+    background-color: rgb(188, 37, 214);
+    padding: 9px;
+    }
+    .ques-mark{
+        display: none;
+    }
+    .faq-container{
+        margin: 1rem auto;
+    }
+    .rm-span{
+        width: 100%;
+        font-size: 1.2rem;
+    }
+    .remember-container{
+        display: flex;
+        flex-direction: column;
+        grid-area: 2rem;
+    }
+    .remember-info{
+        width: 100% !important;
+        text-align: center;
+    }
+    .rm-bold {
+        width: 100% !important;
+        font-size: 1.2rem;
+    }
+    .btw-boxes {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        text-align: center;
+        margin: 0rem 0rem;
+    }
+    .percent-box{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .faq-container{
+        width:100%;
+    }
+    .remember-container{
+        flex-direction: column;
+    }
+    .act-info {
+        width: 100% !important;
+        font-size: 1.2rem;
+        padding: 1rem 0rem;
+        text-align: center;
+        margin-top: -1rem;
+    }
+    .ai-race {
+        width: 100% !important;
+        font-size: 1.1rem;
+        text-align: center;
+    }
+    .greencl {
+        font-weight: bolder;
+        font-size: 14px;
+    }
+    #timer {
+        font-size: 14px;
+        font-weight: bolder;
+    }
+    .btn2 {
+        background-color: #03e2a8;
+        color: #000000;
+        text-decoration: none;
+        padding: 3px 12px;
+        font-size: 12px;
+        border-radius: 5px;
+        font-weight: bold;
+        margin-right: 2px;
+    }
+    .footerSide{
+        height: 4rem;
+    }
+    .rup {
+        margin-top: 0.3rem;
+        font-size: 12px;
+    }
+    
+
+}
+@media (min-width :270px) and (max-width:349px) {
+    .Homesrc{
+        width: 12rem;
+    }
+    .Title {
+        font-size: 1.2rem;
+        margin-top: 0.5rem;
+    }
+    .Income h1 {
+        margin-top: 1rem;
+        font-size: 1.2rem;
+    }
+.Homesrc2 {
+    display: none !important;
+    width: 9rem;
+    height: auto;
+    margin: auto;
+    display: flex;
+    margin-right: 0.5rem;
+    margin-top: 0.8rem;
+}
+#HomeVContainer{
+    width: 250px !important;
+    margin-top: -7rem;
+    margin-bottom: -7rem;
+}
+.Income p {
+    margin-top: 0.4rem;
+    font-size: 1rem;
+}
+.HomeBContainer {
+    width: 16rem;
+    height: 5.3rem;
+    font-size: 1rem;
+}
+.TimingContainer {
+    width: 15rem;
+    height: auto;
+    display: flex;
+    padding: 1rem 0rem;
+    gap: 2.5rem;
+    flex-direction: column;
+    margin-top: 0rem;
+}
+.Exclemetrysrc{
+    height: 4rem;
+    margin-top: 1rem;
+    width: 4rem;
+}
+.Risk {
+    margin-top: 3rem;
+    margin-left: -1rem;
+    font-size: 14px;
+}
+.Imgsrc1 {
+    width: 16rem;
+    height: 16rem;
+}
+.Opportunity {
+    font-size: 14px;
+}
+.ActionNow{
+    font-size: 1rem;
+    text-align: center;
+}
+.BusnessExamples {
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+}
+.RiskOfB {
+    display: flex;
+    margin-top: -2rem;
+}
+.MasterClass1{
+    width: 16rem;
+}
+.Twittersrc {
+    width: 15rem;
+    height: 9rem;
+}
+.grrentxt {
+    font-size: 1rem;
+}
+.clocksrc{
+    width: 16rem;
+    height: 3rem;
+    margin-top: 1rem;
+}
+.firstpara {
+    width: 17rem;
+    font-size: 17px;
+    padding: 0rem 0.5rem;
+}
+.secondpara{
+    width: 17rem;
+    font-size: 17px;
+    padding: 0rem 0.5rem;
+}
+.Aisrc {
+    width: 16rem;
+    height: 9rem;
+}
+.spanbox {
+    margin-top: -2rem;
+}
+.green{
+    font-size: 1.3rem;
+    padding-bottom: 1rem;
+}
+.src{
+    height: 3rem;
+    margin-top: 2.5rem;
+    width: 3rem;
+}
+.bonus-boxes {
+    display: flex;
+    gap: 2rem;
+    flex-direction: column;
+}
+.bonus1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    width: 15rem;
+    margin-top: -1rem;
+}
+.DimandImg {
+    margin-top: 2rem;
+}
+.MsMainContainer1 {
+    display: flex;
+    flex-direction: column;
+}
+.Masterclass {
+    font-size: 1.2rem;
+}
+.free-info {
+    width: 17rem;
+    font-size: 1.1rem;
+    padding: 0rem 0rem;
+}
+.MainContainer6 {
+    margin-bottom: -1rem;
+}
+.ai {
+    height: 3rem;
+    width: 3rem;
+}
+    .testimonials{
+        padding: 1rem;
+    }
+
+    .testimonials-boxes{
+        flex-direction: column;
+    }
+    .for-img{
+        flex-direction: column;
+    align-items: center;
+    }
+    .enter {
+        width: 30rem;
+        height: 36rem;
+    }
+    .for-para{
+        width: 16rem;
+    font-size: 19px;
+    padding: 1rem 0rem;
+    }
+    .future-text{
+        text-align: center;
+        font-size: 19px;
+    }
+    .for-images{
+        display: flex;
+        gap: 2rem !important;
+    }
+    .percent-info{
+        width: 14rem;
+    font-size: 20px;
+    }
+    .question {
+        color: white;
+        font-size: 17px;
+        padding: 1rem 1rem;
+    }
+    .for-head {
+        padding-left: 1rem;
+        font-size: 11px;
+    }
+    #linkedin{
+        font-size: 17px !important;
+    background-color: rgb(34, 203, 241);
+    padding: 3px;
+    display: none;
+    }
+    .rock-info {
+        width: 16rem;
+        padding: 2rem 0rem;
+    }
+    .rock-img {
+        height: 11rem;
+        width: 16rem;
+    }
+    .market {
+        width: 15rem;
+        height: 17rem;
+    }
+    .for-img{
+        display: flex;
+        gap: 2rem;
+        flex-direction: column;
+    }
+    .box-content{
+        width: 16rem;
+    }
+    .enter{
+        width: 15rem;
+        height: 17rem;
+    }
+    .test-info{
+        font-size: 18px;
+        padding-top: 1rem;
+    }
+   
+    .mentor{
+        height: 17rem;
+        width: 15rem;
+    }
+    .percent {
+        font-size: 2rem;
+    }
+
+    .Homebtn{
+        margin: 2rem 0rem;
+        padding: 1rem 1rem;
+        font-size: 15px;
+    }
+    #user{
+        font-size: 12px !important;
+    background-color: rgb(188, 37, 214);
+    padding: 9px;
+    }
+    .ques-mark{
+        display: none;
+    }
+    .faq-container{
+        margin: 1rem auto;
+    }
+    .rm-span{
+        width: 100%;
+        font-size: 1.2rem;
+    }
+    .remember-container{
+        display: flex;
+        flex-direction: column;
+        grid-area: 2rem;
+    }
+    .remember-info{
+        width: 100% !important;
+    }
+    .rm-bold {
+        width: 100% !important;
+        font-size: 1.2rem;
+    }
+    .btw-boxes {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        text-align: center;
+    }
+    .percent-box{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .faq-container{
+        width:100%;
+    }
+    .remember-container{
+        flex-direction: column;
+    }
+    .act-info {
+        width: 100% !important;
+        font-size: 1.2rem;
+        padding: 1rem 0rem;
+    }
+    .ai-race {
+        width: 100% !important;
+        font-size: 1.1rem;
+    }
+    .greencl {
+        font-weight: bolder;
+        font-size: 14px;
+    }
+    #timer {
+        font-size: 10px;
+        font-weight: bolder;
+    }
+    .btn2 {
+        background-color: #03e2a8;
+        color: #000000;
+        text-decoration: none;
+        padding: 3px 12px;
+        font-size: 12px;
+        border-radius: 5px;
+        font-weight: bold;
+        margin-right: -2px;
+    }
+    .footerSide{
+        height: 4rem;
+    }
+    .rup {
+        margin-top: 0.3rem;
+        font-size: 10px;
+    }
+    
+
+}
